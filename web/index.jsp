@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 22-ene-2013, 20:43:04
-    Author     : Joan
+    Author     : Marc
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
